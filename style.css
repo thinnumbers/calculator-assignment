@@ -1,3 +1,10 @@
 html{
   background-color: yellow;
 }
+label{
+  font-size:200%;
+  color : blue;
+}
+button{
+  color: green;
+}
